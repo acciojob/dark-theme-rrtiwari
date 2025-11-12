@@ -2,7 +2,11 @@
   height:90vh;
 }
 #ptag{
-	color:"blue"
+	color:blue;
+}
+.button-day{
+	background-color:"white";
+	color:"blue";
 }
 .night{
   background-color: black;
@@ -14,6 +18,6 @@
 }
 
 .button_night{
-  background-color:blue;
-  color:white; 
+  background-color:black;
+  color:blue; 
 }
