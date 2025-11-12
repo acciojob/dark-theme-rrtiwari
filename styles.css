@@ -1,6 +1,9 @@
 #app{
   height:90vh;
 }
+#ptag{
+	color:"blue"
+}
 .night{
   background-color: black;
   color:white;
